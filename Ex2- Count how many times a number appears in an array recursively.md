@@ -23,7 +23,7 @@ To write a Java program to Count how many times a number appears in an array rec
 ## Program:
 ```
 /*
-Program To determine the minimum value (e.g., lowest heartbeat), implement a recursive method.
+Program Count how many times a number appears in an array recursively.
 Developed by: V. POOJAA SREE
 RegisterNumber: 212223040147
 */
