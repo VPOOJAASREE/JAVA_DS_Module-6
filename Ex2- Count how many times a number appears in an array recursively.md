@@ -4,6 +4,8 @@
 To write a Java program to Count how many times a number appears in an array recursively.
 
 ## Algorithm
+
+```
 1. Start the program.
 2. Read the size of the array size.
 3. If size <= 0, print "Invalid array size" and stop the program.
@@ -14,7 +16,9 @@ To write a Java program to Count how many times a number appears in an array rec
 8. Check the last element of the current array segment.
 9. Store the returned value (count of occurrences) in the variable count.
 10. Print the required.
-11. End the program.  
+11. End the program.
+
+```
 
 ## Program:
 ```
